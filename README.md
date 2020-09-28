@@ -1,4 +1,4 @@
 # helloword
 
-esse é o meu primeiro codigo aqui no github
+esse é o meu primeiro codigo js
 by roberto fernandes
